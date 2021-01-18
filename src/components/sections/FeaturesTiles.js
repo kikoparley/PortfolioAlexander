@@ -79,7 +79,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
 
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
 
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -113,8 +113,8 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/node-js-logo.svg')}
                       alt="Features tile icon 03"
-                      width={96}
-                      height={96} />
+                      width={64}
+                      height={64} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -122,8 +122,8 @@ const FeaturesTiles = ({
                     NODE JS
                     </h4>
                   <p className="m-0 text-sm">
- 
-                    </p>
+
+                  </p>
                 </div>
               </div>
             </div>
@@ -133,19 +133,19 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div>
                     <Image
-                      src={require('./../../assets/images/512px-Ionic_Logo.svg.png')}
+                      src={require('./../../assets/images/Icon_ionic-logo-ionic.svg')}
                       alt="Ionic_Logo.svg.png"
-                      width={124}
-                      height={124} />
+                      width={64}
+                      height={64} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    IONIC 
+                    IONIC
                     </h4>
                   <p className="m-0 text-sm">
 
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -167,7 +167,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
 
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -179,8 +179,8 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/firebase-1.svg')}
                       alt="firebase-1.svg"
-                      width={32}
-                      height={32} />
+                      width={48}
+                      height={48} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -189,7 +189,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
 
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>

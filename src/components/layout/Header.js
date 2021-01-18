@@ -86,7 +86,7 @@ const Header = ({
             bottomDivider && 'has-bottom-divider'
           )}>
           <h1 className="text-color-primary" data-reveal-delay="200">
-            <span className="text-color-primary">AlexFer</span>
+            <span className="text-color-primary">AlexFer.com</span>
           </h1>
           {/* <Logo /> */}
           {!hideNav &&
